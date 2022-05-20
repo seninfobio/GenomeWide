@@ -36,4 +36,5 @@
 18. [Genome-wide identification, phylogenetic and expression pattern analysis of GATA family genes in Brassica napus](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02752-2#Sec2)
 19. [Genome-wide identification, functional prediction, and evolutionary analysis of the R2R3-MYB superfamily in Brassica napus](https://cdnsciencepub.com/doi/full/10.1139/gen-2017-0059)
 20. [Genome-Wide Identification and Expression Analysis of WRKY Transcription Factors under Multiple Stresses in Brassica napus](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157558)
-21. 
+21. [Genome-wide identification and analysis of high-affinity nitrate transporter 2 (NRT2) family genes in rapeseed (Brassica napus L.) and their responses to various stresses](https://link.springer.com/article/10.1186/s12870-020-02648-1#Sec11)
+22. [Genome-Wide Identification of MicroRNAs in Response to Cadmium Stress in Oilseed Rape (Brassica napus L.) Using High-Throughput Sequencing](https://www.mdpi.com/1422-0067/19/5/1431/htm)
