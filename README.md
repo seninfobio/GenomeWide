@@ -35,3 +35,5 @@
 17. [Genome-wide identification and functional analysis of oleosin genes in Brassica napus L.](https://link.springer.com/article/10.1186/s12870-019-1891-y#Sec12)
 18. [Genome-wide identification, phylogenetic and expression pattern analysis of GATA family genes in Brassica napus](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02752-2#Sec2)
 19. [Genome-wide identification, functional prediction, and evolutionary analysis of the R2R3-MYB superfamily in Brassica napus](https://cdnsciencepub.com/doi/full/10.1139/gen-2017-0059)
+20. [Genome-Wide Identification and Expression Analysis of WRKY Transcription Factors under Multiple Stresses in Brassica napus](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157558)
+21. 
