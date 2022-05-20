@@ -38,3 +38,9 @@
 20. [Genome-Wide Identification and Expression Analysis of WRKY Transcription Factors under Multiple Stresses in Brassica napus](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157558)
 21. [Genome-wide identification and analysis of high-affinity nitrate transporter 2 (NRT2) family genes in rapeseed (Brassica napus L.) and their responses to various stresses](https://link.springer.com/article/10.1186/s12870-020-02648-1#Sec11)
 22. [Genome-Wide Identification of MicroRNAs in Response to Cadmium Stress in Oilseed Rape (Brassica napus L.) Using High-Throughput Sequencing](https://www.mdpi.com/1422-0067/19/5/1431/htm)
+23. [Genome-wide identification of cold responsive transcription factors in Brassica napus L](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-2253-5)
+24. [Genome-wide identification and functional analysis of the TIFY gene family in the response to multiple stresses in Brassica napus L.](https://link.springer.com/article/10.1186/s12864-020-07128-2)
+25. [Genome-Wide Identification and Characterization of NODULE-INCEPTION-Like Protein (NLP) Family Genes in Brassica napus](https://www.mdpi.com/1422-0067/19/8/2270/htm)
+26. [Genome-wide identification and expression profiling of the carotenoid cleavage dioxygenase (CCD) gene family in Brassica napus L](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238179)
+27. [Genome-Wide Identification and Characterization of SET Domain Family Genes in Brassica napus L.](https://www.mdpi.com/1422-0067/23/4/1936/htm)
+28. 
