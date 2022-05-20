@@ -32,4 +32,6 @@
 14. [Genome wide identification and comparative analysis of glutathione transferases (GST) family genes in Brassica napus](https://www.nature.com/articles/s41598-019-45744-5)
 15. [Genome-wide identification and comparative analysis of NBS-LRR resistance genes in Brassica napus](https://www.publish.csiro.au/cp/CP17214)
 16. [Genome-Wide Identification and Structural Analysis of bZIP Transcription Factor Genes in Brassica napus](https://www.mdpi.com/2073-4425/8/10/288)
-17. 
+17. [Genome-wide identification and functional analysis of oleosin genes in Brassica napus L.](https://link.springer.com/article/10.1186/s12870-019-1891-y#Sec12)
+18. [Genome-wide identification, phylogenetic and expression pattern analysis of GATA family genes in Brassica napus](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02752-2#Sec2)
+19. [Genome-wide identification, functional prediction, and evolutionary analysis of the R2R3-MYB superfamily in Brassica napus](https://cdnsciencepub.com/doi/full/10.1139/gen-2017-0059)
