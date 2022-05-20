@@ -46,4 +46,6 @@
 25. [Genome-Wide Identification and Characterization of NODULE-INCEPTION-Like Protein (NLP) Family Genes in Brassica napus](https://www.mdpi.com/1422-0067/19/8/2270/htm)
 26. [Genome-wide identification and expression profiling of the carotenoid cleavage dioxygenase (CCD) gene family in Brassica napus L](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238179)
 27. [Genome-Wide Identification and Characterization of SET Domain Family Genes in Brassica napus L.](https://www.mdpi.com/1422-0067/23/4/1936/htm)
-28. 
+28. [Genome-wide identification and analyses of bHLH family genes in Brassica napus](https://cdnsciencepub.com/doi/full/10.1139/cjps-2018-0230)
+29. [Genome-Wide Identification of the LAC Gene Family and Its Expression Analysis Under Stress in Brassica napus](https://www.mdpi.com/1420-3049/24/10/1985)
+30. 
