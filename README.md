@@ -29,4 +29,7 @@
 11. [Identification of WRKY transcription factors responding to abiotic stresses in Brassica napus L.](https://link.springer.com/article/10.1007/s00425-021-03733-x#Sec2)
 12. [Genome-wide identification and characterization of SnRK family genes in Brassica napus](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02484-3#Sec12)
 13. [Genome-wide identification of Cd-responsive NRAMP transporter genes and analyzing expression of NRAMP 1 mediated by miR167 in Brassica napus](https://link.springer.com/article/10.1007/s10534-017-0057-3)
-14. [Genome wide identification and comparative analysis of glutathione transferases (GST) family genes in Brassica napus]()
+14. [Genome wide identification and comparative analysis of glutathione transferases (GST) family genes in Brassica napus](https://www.nature.com/articles/s41598-019-45744-5)
+15. [Genome-wide identification and comparative analysis of NBS-LRR resistance genes in Brassica napus](https://www.publish.csiro.au/cp/CP17214)
+16. [Genome-Wide Identification and Structural Analysis of bZIP Transcription Factor Genes in Brassica napus](https://www.mdpi.com/2073-4425/8/10/288)
+17. 
