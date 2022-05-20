@@ -1,7 +1,10 @@
 # GenomeWide
 
 [Bn_PIR database](http://cbi.hzau.edu.cn/bnapus/genetree/index.php#)
+
 [GenoScope](https://www.genoscope.cns.fr/brassicanapus/data/)
+
+[BrassicaEDB_A gene Expression database for Brassica crops](https://brassica.biodb.org/analysis)
 
 |---- ZS11.protein.cds
 |---- Zheyou7.protein.cds
