@@ -38,9 +38,8 @@
 5. [Genome-wide analysis and expression patterns of lipid phospholipid phospholipase gene family in Brassica napus L.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07862-1)
 6. [Genome-Wide Identification and Analysis of the Valine-Glutamine Motif-Containing Gene Family in Brassica napus and Functional Characterization of BnMKS1 in Response to Leptosphaeria maculans](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-04-20-0134-R)
 7. [Genome-wide identification and expression profiling of the COBRA-like genes reveal likely roles in stem strength in rapeseed (Brassica napus L.)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260268#sec002)
-8. [Genome-wide identification and characterization of SnRK family genes in Brassica napus](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02484-3#Sec12)
-9. [Genome-Wide Identification and Characterization of the IGT Gene Family in Allotetraploid Rapeseed (Brassica napus L.)](https://www.liebertpub.com/doi/abs/10.1089/dna.2020.6227)
-10. 
+8. [Genome-Wide Identification and Characterization of the IGT Gene Family in Allotetraploid Rapeseed (Brassica napus L.)](https://www.liebertpub.com/doi/abs/10.1089/dna.2020.6227)
+9.  
 
 
 **~2020**
@@ -52,7 +51,8 @@
 5. [Genome-wide identification and expression profiling of the carotenoid cleavage dioxygenase (CCD) gene family in Brassica napus L](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238179)
 6. [Genome-wide identification and comparative analysis of Dof gene family in Brassica napus](https://www.biorxiv.org/content/10.1101/2020.12.15.422814v1.full)
 7. [Genome-wide identification of the NPR1-like gene family in Brassica napus and functional characterization of BnaNPR1 in resistance to Sclerotinia sclerotiorum](https://link.springer.com/article/10.1007/s00299-020-02525-z)
-8. 
+8. [The β- Amylase Gene Family in Brassica Napus: Genome Wide Analysis and Expression Profiles in Response to Abiotic Stresses](https://www.researchsquare.com/article/rs-70066/v1)
+9. [Genome-wide identification and characterization of SnRK family genes in Brassica napus](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02484-3#Sec12)
 
 **~2019**
 
@@ -62,12 +62,15 @@
 4. [Genome-Wide Identification of the LAC Gene Family and Its Expression Analysis Under Stress in Brassica napus](https://www.mdpi.com/1420-3049/24/10/1985)
 5. [Genome-wide Identification and Phylogenetic Analysis of Zinc Finger Homeodomain Family Genes in Brassica napus](https://www.chinbullbotany.com/EN/10.11983/CBB19055)
 6. [Genome-wide identification and characterization of the Hsp70 gene family in allopolyploid rapeseed (Brassica napus L.) compared with its diploid progenitors](https://peerj.com/articles/7511/)
-7. 
+7. [Genome-wide identification of stress-associated proteins (SAP) with A20/AN1 zinc finger domains associated with abiotic stresses responses in Brassica napus](https://www.sciencedirect.com/science/article/pii/S0098847219302850?via%3Dihub#fig0005)
+8. 
 
 **~2018**
 
 1. [Genome-Wide Identification of MicroRNAs in Response to Cadmium Stress in Oilseed Rape (Brassica napus L.) Using High-Throughput Sequencing](https://www.mdpi.com/1422-0067/19/5/1431/htm)
 2. [Genome-Wide Identification and Characterization of NODULE-INCEPTION-Like Protein (NLP) Family Genes in Brassica napus](https://www.mdpi.com/1422-0067/19/8/2270/htm)
+3. [Genome-wide identification of oil biosynthesis-related long non-coding RNAs in allopolyploid Brassica napus](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5117-8)
+4. 
 
 **~2017**
 
@@ -76,10 +79,17 @@
 3. [Genome-Wide Identification and Structural Analysis of bZIP Transcription Factor Genes in Brassica napus](https://www.mdpi.com/2073-4425/8/10/288)
 4. [Genome-wide identification, functional prediction, and evolutionary analysis of the R2R3-MYB superfamily in Brassica napus](https://cdnsciencepub.com/doi/full/10.1139/gen-2017-0059)
 5. [Genome-Wide Identification and Characterization of the Aquaporin Gene Family and Transcriptional Responses to Boron Deficiency in Brassica napus](https://www.frontiersin.org/articles/10.3389/fpls.2017.01336/full)
+6. [Genome-Wide Identification and Characterization of SPX Domain-Containing Members and Their Responses to Phosphate Deficiency in Brassica napus](https://www.frontiersin.org/articles/10.3389/fpls.2017.00035/full)
+7. 
 
 **~2016**
 
 1. [Genome-Wide Identification and Expression Analysis of WRKY Transcription Factors under Multiple Stresses in Brassica napus](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157558)
 2. [Genome-wide identification, structural analysis and new insights into late embryogenesis abundant (LEA) gene family formation pattern in Brassica napus](https://www.nature.com/articles/srep24265)
-3. 
- 
+3. [Genome-wide identification and homeolog-specific expression analysis of the SnRK2 genes in Brassica napus guard cells](https://link.springer.com/article/10.1007/s11103-016-0456-9)
+4. 
+
+**~2012**
+
+1. [Genome-wide identification of Brassica napus microRNAs and their targets in response to cadmium](https://academic.oup.com/jxb/article/63/12/4597/642764?login=true)
+2. 
