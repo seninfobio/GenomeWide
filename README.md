@@ -1,4 +1,7 @@
 # GenomeWide
+Other crops:
+[Genome-Wide Identification, Evolution, and Expression of GDSL-Type Esterase/Lipase Gene Family in Soybean](https://www.frontiersin.org/articles/10.3389/fpls.2020.00726/full)
+
 
 [Bn_PIR database](http://cbi.hzau.edu.cn/bnapus/genetree/index.php#)
 
