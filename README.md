@@ -10,6 +10,7 @@ Other crops:
 
 -2006[Isolation and Expression Analysis of a GDSL-like Lipase Gene from Brassica napus L](https://www.koreascience.or.kr/article/JAKO200609137569539.page)
 
+-2022_[Genome-Wide Identification of GRAS Transcription Factors and Their Potential Roles in Growth and Development of Rose (Rosa chinensis)](https://link.springer.com/article/10.1007/s00344-022-10635-z)
 
 [Bn_PIR database](http://cbi.hzau.edu.cn/bnapus/genetree/index.php#)
 
