@@ -6,7 +6,7 @@ Other crops:
 
 -2022_Review[Plant GDSL Esterases/Lipases: Evolutionary, Physiological and Molecular Functions in Plant Development](https://www.mdpi.com/2223-7747/11/4/468/htm)
 
--2022 [Genome-wide identification and expression analysis of GDSL esterase/lipase genes in tomato](https://www.mdpi.com/2223-7747/11/4/468/htm)
+-2022 [Genome-wide identification and expression analysis of GDSL esterase/lipase genes in tomato](https://www.sciencedirect.com/science/article/pii/S209531192063461X)
 
 -2006[Isolation and Expression Analysis of a GDSL-like Lipase Gene from Brassica napus L](https://www.koreascience.or.kr/article/JAKO200609137569539.page)
 
